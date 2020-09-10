@@ -1,3 +1,5 @@
+# Please note the PNG Files are in the figures folder!
+
 ## Introduction
 
 This assignment uses data from
